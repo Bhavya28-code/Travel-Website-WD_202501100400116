@@ -39,10 +39,10 @@ Contact page ├── Contactus.html/<br>
 
 ---
 
-## 📸 Screenshots (Optional)
-Add screenshots of your homepage or other sections here.  
+## 📸 Screenshots
+<img width="1856" height="1961" alt="Project Output" src="https://github.com/user-attachments/assets/c822e930-dc0c-4b8a-b2fc-5871e7954d91" />
 
 ---
 
 ## 📧 Contact
-Created by *[Your Name]* (KIET UID: XXXXX)
+Created by *Bhavya Srivastava* (KIET UID: 202501100400116)
